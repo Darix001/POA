@@ -1,4 +1,4 @@
-import ujson
+import json
 import unicodedata
 import dataclasses
 import operator as op
@@ -481,7 +481,7 @@ def matriz_pia():
 				)
 			)
 
-	print(ujson.dumps(products, indent=4, ensure_ascii=False))
+	print(json.dumps(products, indent=4, ensure_ascii=False))
 
 
 if __name__ == '__main__':

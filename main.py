@@ -1,6 +1,6 @@
 import streamlit as st
 import zipfile
-import ujson
+import json
 import io
 
 from itertools import starmap
@@ -9,7 +9,7 @@ from test import pyxl_process as modify, utf_op
 config :dict[str, dict[str, bool|dict[str, list[str]]]]
 
 with utf_op("config.json") as configfile:
-	config = ujson.load(configfile)
+	config = json.load(configfile)
 
 st.set_page_config(
 	page_title="Corrector POA 2025/2026",
@@ -73,5 +73,5 @@ with st.container():
 
 if st.button("Guardar Configuración", type="secondary"):
 	with utf_op("config.json", "w") as configfile:
-		ujson.dump(config, configfile, indent=4, ensure_ascii=False)
+		json.dump(config, configfile, indent=4, ensure_ascii=False)
 	st.success("Nueva Configuración guardada.")
