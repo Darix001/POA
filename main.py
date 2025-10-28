@@ -1,6 +1,6 @@
 import streamlit as st
 import zipfile
-import json
+import ujson
 import io
 
 from itertools import starmap
