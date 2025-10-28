@@ -1,0 +1,121 @@
+{
+    "output_dir": "C:\/Users\/Daisy Garcia\/Documents\/POA\/Por revisar",
+    "entry": "C:\/Users\/Daisy Garcia\/Documents\/POA\/Poas\/1. POA 2025  atualizacion.xlsx",
+    "excel_open": false,
+    "correct": {
+        "insumos": true,
+        "fórmulas": true,
+        "acciones": true,
+        "actividades": true,
+        "enumeraciones": true,
+        "producto": true,
+        "resumen": true
+    },
+    "misses": {
+        "e": {
+            "ega": "pegamentos"
+        },
+        "f": {
+            "foami": "etileno vinil acetato (eva)"
+        },
+        "r": {
+            "record": "libros de calificaciones de la clase del profesor"
+        },
+        "c": {
+            "cinta pegante": "cinta de transferencia adhesiva"
+        },
+        "s": {
+            "suape": "cabezas de traperos"
+        }
+    },
+    "Matriz PIA": {
+        "Niños y niñas que alcanzan los niveles de logro de aprendizajes esperados en el nivel inicial": [
+            "Realizar ambientacion del aula tomando en cuenta los  criterios establecidos en el curriculo del nivel inicial",
+            "Realizar evaluación diagnóstica a  los niños y las niñas del nivel inicial",
+            "Elaborar planes de  clases para el nivel incial",
+            "Implementar el curriculum por competencias",
+            "Realizar evaluacion continua al proceso de enseñanza aprendizaje"
+        ],
+        "Niños y niñas que alcanzan los niveles de logro de aprendizajes esperados en el nivel primario": [
+            "Aplicar evaluación diagnóstica a los estudiantes del nivel primario",
+            "Elaborar  planes de clases para el nivel primario",
+            "Implementar el currículum por competencias",
+            "Realizar evaluación formativa del estudiante (aplicación de pruebas\/medición)"
+        ],
+        "Niños, niñas y adolescentes que alcanzan los niveles de logro de aprendizajes esperados en el primer ciclo del nivel secundario": [
+            "Aplicar evaluación diagnóstica a los estudiantes",
+            "Elaborar  planes de clases para el nivel secundario",
+            "Implementar el currículum por competencias",
+            "Realizar evaluación formativa del estudiante (aplicación de pruebas\/medición)"
+        ],
+        "Niños, niñas y adolescentes que alcanzan los niveles de logros de aprendizajes esperados en el nivel secundario, Modalidad Académica": [
+            "Aplicar evaluación diagnóstica a los estudiantes",
+            "Elaborar  planes de clases para el nivel secundario. Modalidad Académica",
+            "Implementar el currículum por competencias",
+            "Realizar evaluación formativa del estudiante (aplicación de pruebas\/medición)"
+        ],
+        "Niños, niñas y adolescentes que alcanzan los niveles de logro de aprendizajes esperados en el nivel secundario, Modalidad Técnico Profesional": [
+            "Aplicar evaluación diagnóstica a los estudiantes",
+            "Elaborar  planes de clases para el nivel secundario, Modalidad Técnico Proesional",
+            "Implementar el currículum por competencias",
+            "Realizar evaluación formativa del estudiante (aplicación de pruebas\/medición)"
+        ],
+        "Niños, niñas y adolescentes que alcanzan los niveles de logro de aprendizajes esperados en el nivel secundario, Modalidad en Artes": [
+            "Aplicar evaluación diagnóstica a los estudiantes",
+            "Elaborar  planes de clases para el nivel secundario, Modalidad en Artes",
+            "Implementar el currículum por competencias",
+            "Realizar evaluación formativa del estudiante (aplicación de pruebas\/medición)"
+        ],
+        "Personas jóvenes y adultas que alcanzan los niveles de logro de aprendizajes esperados en el Subsistema de Adultos": [
+            "Aplicar evaluación diagnóstica a los estudiantes",
+            "Elaborar  planes de clases para el Subsistema de Adultos",
+            "Implementar el currículum",
+            "Realizar evaluación formativa del estudiante (aplicación de pruebas\/medición)"
+        ],
+        "Niños, niñas, adolescentes y jóvenes entre 0 y 20 años en centros de educación especial y aulas específicas alcanzan los logros de aprendizajes esperados": [
+            "Realizar evaluación psicopedagógica a cada estudiante",
+            "Elaborar  Plan de Clases (PC), incluyendo ajustes curriculares individualizados y registro de los apoyos requeridos",
+            "Implementar el currículum por competencias",
+            "Relizar análisis de casos para organizar planes de apoyo individualizados para estudiantes que lo requieran",
+            "Realizar evaluación del estudiante (aplicación de pruebas\/medición)"
+        ],
+        "Niños, niñas, adolescentes y jóvenes entre 0 y 20 años con discapacidad en aulas regulares alcanzan los niveles logro de aprendizajes esperados": [
+            "Realizar evaluación psicopedagógica a cada estudiante con discapacidad",
+            "Elaborar  Plan Anual de Clases (PAC), incluyendo ajustes curriculares individualizados y registro de los apoyos requeridos por estudiantes con discapacidad",
+            "Implementar currículo por competencia",
+            "Realizar evaluaciones del estudiante (aplicación de pruebas\/medición)"
+        ],
+        "Intervenciones de apoyo psicopedagógico, psicosocial y psicoafectivo, implementadas": [
+            "Elaborar el plan de las estrategias de apoyo psicopedagógico, psicosocial y psicoafectivo para los estudiantes, padres, tutores y amigos de la escuela",
+            "Implementar las estrategias de apoyo psicopedagógico, psicosocial y psicoafectivo para los estudiantes, padres, tutores y amigos de la escuela",
+            "Realizar el informe de las estrategias de apoyo psicopedagógico, psicosocial y psicoafectivo para los estudiantes, padres, tutores y amigos de la escuela"
+        ],
+        "Docentes acompañados para el logro de la implementación del currículo y los aprendizajes": [
+            "Elaborar el plan de acompañamiento a la práctica pedagógica de los docentes",
+            "Implementar el plan de acompañamiento a la práctica pedagógica a docentes",
+            "Evaluar el plan de acompañamiento a la práctica pedagógica",
+            "Elaborar el plan de mejora  de acuerdo a los resutados del plan de acompañamiento a la práctica pedagógica",
+            "Elaborar informes de los resultados de implementación, seguimiento y evaluación de los planes de mejora"
+        ],
+        "Organismos de participación del centro educativo funcionando": [
+            "Elaborar plan  de  organismos de participación",
+            "Conformar o reestructurar los organismos de participación",
+            "Ejecutar plan   de organismos de participación",
+            "Evaluar  plan   de organismos de participación",
+            "Dar seguimiento al  funcionamiento de los organismos de participación",
+            "Conformar o reestructar las juntas de centros"
+        ],
+        "familias, estudiantes y comunidad participando en  el programa de escuela abierta": [
+            "Realizar capacitacion a jovenes lideres de la escuela"
+        ],
+        "Anteproyecto de presupuesto formulado y monitoreado": [
+            "Identificar las necesidades de gastos operativos del centro educativo",
+            "Elaborar el plan de gastos operativos del centro educativo",
+            "Socializar el plan de gastos operativos del centro educativo",
+            "Implementar el plan de gastos operativos del centro educativo",
+            "Monitorear el plan de gastos operativos del centro educativo",
+            "Evaluar la implementación del plan de gastos operativos del centro educativo",
+            "Realizar informe de ejecución mediante formulario de rendición de cuentas"
+        ]
+    }
+}
